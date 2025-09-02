@@ -1,1 +1,2 @@
-cambio realizado desde el local 
+correccion archivo1 
+archivo editado hecho en la rama master, desde la web de github
